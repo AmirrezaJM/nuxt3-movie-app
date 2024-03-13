@@ -11,7 +11,6 @@ Make sure to install the dependencies:
 # pnpm
 pnpm install
 
-
 ```
 
 ## Development Server
