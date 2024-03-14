@@ -1,0 +1,19 @@
+@layer base {
+    body {
+        @apply w-screen h-screen;
+        background-color: var(--bg);
+        font-family: "Vazirmatn",'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    }
+    main {
+        @apply container mx-auto;
+    }
+}
+
+@layer components {
+    .button {
+        @apply w-72 h-auto p-4 border-4 rounded text-center mx-auto text-2xl transition-colors duration-300 ease-out;
+        border-color: var(--primary);
+        color: var(--text-primary);
+    }
+    
+}

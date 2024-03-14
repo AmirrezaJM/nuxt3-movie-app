@@ -1,0 +1,84 @@
+:root {
+    --primary: #f84443;    
+    --secondary: #2d5395;
+    --white: #fff;
+    --accent: #ddd6fe; 
+    --neutral: #191D24;
+    --info: #3ABFF8;   
+    --success: #36D399;      
+    --warning: #FBBD23; 
+    --error: #F87272;
+    --text-primary: #2a2a2a;
+    --text-secondary: #2e3238;
+    --header: #f3f5f4bb;
+    --header-secondary: #fff;
+    --bg: #f3f5f4;
+    --bg-secondary: #fff;
+    --btn-text: #fff;
+    --window-layout: #d5d8db;
+    --window-layout-darker: #ebebeb;
+}
+
+.light-mode {
+    --primary: #f84443;    
+    --secondary: #2d5395;
+    --white: #fff;
+    --accent: #ddd6fe; 
+    --neutral: #191D24;
+    --info: #3ABFF8;   
+    --success: #36D399;      
+    --warning: #FBBD23; 
+    --error: #F87272;
+    --text-primary: #2a2a2a;
+    --text-secondary: #2e3238;
+    --header: #f3f5f4bb;
+    --header-secondary: #fff;
+    --bg: #f3f5f4;
+    --bg-secondary: #fff;
+    --btn-text: #fff;
+    --window-layout: #d5d8db;
+    --window-layout-darker: #ebebeb;
+}
+
+.dark-mode {
+    --primary: #7289da;    
+    --secondary: #43b581;
+    --white: #fff;
+    --accent: #ddd6fe; 
+    --neutral: #191D24;
+    --info: #3ABFF8;   
+    --success: #36D399;      
+    --warning: #FBBD23; 
+    --error: #F87272;
+    --text-primary: #fafafa;
+    --text-secondary: #787878;
+    --header: #2f3136bb;
+    --header-secondary: #000;
+    --bg: #2f3136;
+    --bg-secondary: #000;
+    --btn-text: #fff;
+    --window-layout: #24282a;
+    --window-layout-darker: #0e0f12;
+}
+
+.dracula-mode {
+    --primary: #bf95f9;    
+    --secondary: #37b8d6;
+    --white: #fff;
+    --accent: #ddd6fe; 
+    --neutral: #191D24;
+    --info: #3ABFF8;   
+    --success: #36D399;      
+    --warning: #FBBD23; 
+    --error: #F87272;
+    --text-primary: #fafafa;
+    --text-secondary: #787878;
+    --header: #323440bb;
+    --header-secondary: #323440;
+    --bg: #323440;
+    --bg-secondary: #000;
+    --btn-text: #fff;
+    --window-layout: #24282a;
+    --window-layout-darker: #14151a;
+    --window-layout--text: #3f454b;
+}
